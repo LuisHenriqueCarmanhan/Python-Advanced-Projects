@@ -1,4 +1,4 @@
-# 🐍 Python Advanced Projects | Mundo 3 - Control & Automation Focus
+# 🐍 Python Advanced Projects 
 
 This repository contains the advanced phase of my Python learning journey. As a **Control and Automation Engineer**, I focus on developing code that is not only functional but also modular, resilient, and ready for integration with industrial logic and data systems.
 
