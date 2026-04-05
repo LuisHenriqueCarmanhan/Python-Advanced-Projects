@@ -40,10 +40,10 @@ The topics listed below represent concepts studied and applied throughout the pr
 ## 📊 Data Structures Practice
 
 * **tuple_analyzer.py** → Analyzes tuples and extracts statistical information.
-* **max_min_finder.py** → Finds highest and lowest values within lists.
+* **Random Number Analyzer.py** → Generates random numbers and analyzes maximum, minimum, average, and sorted values (tuple-based).
 * **even_odd_separator.py** → Separates numbers into even and odd groups.
-* **sorted_values.py** → Demonstrates sorting operations on dynamic lists.
-
+* **student_grade_manager.py** → Manages a dynamic list of student grades with add, remove, update, and average calculation features.
+* **task_list_manager.py** → Implements a to-do list system with task addition, removal, and completion tracking.
 ---
 
 ## ⚙️ Functions & Modular Logic
